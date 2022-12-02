@@ -5,7 +5,6 @@ import {
   CanActivate,
   Router,
   RouterStateSnapshot,
-  UrlTree,
 } from "@angular/router";
 import { getisAdmin, isValidId } from "app/partage/storageLocal";
 import { Observable } from "rxjs";
